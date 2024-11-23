@@ -1,0 +1,21 @@
+{
+  "name": "webdriver-io-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/cli": "^9.3.1"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^9.3.1",
+    "@wdio/mocha-framework": "^9.2.8",
+    "@wdio/spec-reporter": "^9.2.14",
+    "@wdio/sync": "7.27.0"
+  }
+}
